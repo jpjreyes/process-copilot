@@ -21,7 +21,7 @@ cat > "$DEST/README.md" <<EOF
 # P2 Process Copilot: backup
 
 The working repo lives at \`~/other/process-copilot\` (outside OneDrive) and on GitHub:
-https://github.com/jpreyesm03/process-copilot (private).
+https://github.com/jpjreyes/process-copilot (private).
 
 This folder is an automatic backup, refreshed after every commit:
 - \`process-copilot.bundle\`: the full git history in one file.
